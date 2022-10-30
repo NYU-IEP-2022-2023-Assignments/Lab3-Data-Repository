@@ -8,9 +8,9 @@ Log into github desktop on the lab computer
 
 ![github_signin](https://user-images.githubusercontent.com/237963/137568522-e5ff801c-45ed-4083-946f-45c077640ae3.png)
 
-Accept the assignment link from: https://classroom.github.com/a/7yg2mGm5
+Accept the assignment link from: https://classroom.github.com/a/UaYWt2yC
 
-Clone the repository you created by accepting the assignment. The repository name will be NYUExperimentalPhysics1-2021/lab2-data-repository-**your github username** Make sure you include your username (don't clone the template repository; you won't be able to push changes later)
+Clone the repository you created by accepting the assignment. The repository name will be NYU-IEP-2022-3-Classroom/lab3-data-repository-**your github username** Make sure you include your username (don't clone the template repository; you won't be able to push changes later)
 
 ![github_clone_button](https://user-images.githubusercontent.com/237963/137568755-a3271eaf-f7a9-49cb-87bc-b93a075b3be3.png)
 
@@ -26,7 +26,7 @@ Copy your data into the repository
 
 ![copy_data](https://user-images.githubusercontent.com/237963/137568989-576c730c-903a-4697-8768-4aeb6d3e1fda.png)
 
-Then go back to github desktop. You should see hundreds of changed files. Type in a commit message and hit the "commit to main" button
+Then go back to github desktop. You should see lots of changed files. Type in a commit message and hit the "commit to main" button
 
 ![github_commit](https://user-images.githubusercontent.com/237963/137569114-44c4c719-dfe5-49b9-a111-15c1681f2f61.png)
 

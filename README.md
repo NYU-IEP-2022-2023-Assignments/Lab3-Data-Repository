@@ -2,6 +2,8 @@
 
 **IMPORTANT** This data repository has public access. Anything you put in it can be seen by anyone, anywhere! Don't put anything personal or private in here! 
 
+*The images here correspond to last year's assignment, so the repository names shown reflect those. Look for NYU-IEP-2022-3-Classroom/lab3-data-repository-**your github username** NOT NYUExperimentalPhysics1-2021/lab2-data-repository-your github username*
+
 Log into github desktop on the lab computer
 
 ![github_options](https://user-images.githubusercontent.com/237963/137568519-93e7380f-01e2-4a46-ac93-4d3a68cdf55c.png)

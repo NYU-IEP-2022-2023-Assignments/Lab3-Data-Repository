@@ -1,4 +1,4 @@
-# Lab2-Data-Repository
+# Lab3-Data-Repository
 
 **IMPORTANT** This data repository has public access. Anything you put in it can be seen by anyone, anywhere! Don't put anything personal or private in here! 
 
@@ -9,6 +9,8 @@ Log into github desktop on the lab computer
 ![github_options](https://user-images.githubusercontent.com/237963/137568519-93e7380f-01e2-4a46-ac93-4d3a68cdf55c.png)
 
 ![github_signin](https://user-images.githubusercontent.com/237963/137568522-e5ff801c-45ed-4083-946f-45c077640ae3.png)
+
+After you log in, click on the tab that says "git" and click "save." This will make git use your email address when recording the commits. You can enter a different email address before you hit save if you don't want your email included in the repository history.
 
 Accept the assignment link from: https://classroom.github.com/a/UaYWt2yC
 
